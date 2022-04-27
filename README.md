@@ -1,7 +1,7 @@
 ### Olá! Sou o João Vitor
 
-- 🔭 Hoje trabalho com desenvolvimento de sistemas web e eletrônica
-- 🌱 Estou aprendendo a cada dia mais de JavaScript, TypeScript, Html, NodeJs e Css
+- 🔭 Hoje trabalho com desenvolvimento de sistemas web
+- 🌱 Estou aprendendo a cada dia mais de JavaScript, Html, NodeJs e Css
 - 😄 Pronouns: Ele/Dele
 
 <div>
